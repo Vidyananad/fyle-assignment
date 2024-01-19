@@ -1,2 +1,4 @@
 # fyle-assignment
-This is the basic gitHub user api app built on Html, Css and Javascript
+
+A fully functional github user Api project written in javascript showing a userprofile with the help of username.
+
